@@ -4,10 +4,10 @@
 #black: "#000"
 #color:
 #primary: 5fbe60  #fed136
-highlight: 5fbe60  #fed136
-secondary: 43a344 #fec503   
-secondary-dark: 333
-muted: 777
+highlight: "#5fbe60"  #fed136
+secondary: "#43a344" #fec503   
+#secondary-dark: 333
+#muted: 777
 
 body-font: 'Sorts Mill Goudy'
 
