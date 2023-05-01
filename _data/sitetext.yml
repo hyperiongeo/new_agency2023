@@ -18,18 +18,21 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Advanced Geophysical Interpretation"
     section: services
     list:
       - title: "Geophysical Interpretation"
         desc: "Advanced geophysical interpretaion for Western Canada and International."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-atom-simple #find more at https://fontawesome.com/icons
+      - title: "A/D Activity Including Dataroom setup and Maintenance"
+        desc: "setting up and maintaining seismic dataroom access."
+        icon: fas fa-film-canister
       - title: "Geoscience Software Development"
         desc: "Open Source and commercial Geoscience software development utilizing modern languages, primarily Python and C#."
-        icon: fas fa-laptop
+        icon: fas fa-python
       - title: "Data Science and Analytics"
         desc: "Data analysis utilizing machine learning for advanced data analysis, principally in Geoscience"
-        icon: fab fa-markdown
+        icon: fab fa-chart-mixed
 
   portfolio:
     title: "Portfolio"
