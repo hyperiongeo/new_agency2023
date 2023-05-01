@@ -19,11 +19,11 @@ baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title: Hyperion GeoServices Corp.
 email: hyperion.geo@gmail.com
-description: "wensite of Hyperio geo - World Class Gweophysical interpretation."
+description: "website of Hyperio geo - World Class Geophysical interpretation."
 author     : Corey Hooge
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+ logo:     #optional, defaults to site title
+  path: assets\img\logo.png
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

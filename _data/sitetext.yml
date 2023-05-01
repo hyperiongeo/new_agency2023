@@ -66,9 +66,9 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-      - title: "sold RQA assets to geoLOGIC Systems"
+      - title: "sold RQA (geoROCK) assets to geoLOGIC Systems"
         year: "July 2019 - Dec 2021"
-        desc: "Consulting to geoLOGIC Systems Inc. as a consultig develper to continue the advancement of  geoROCK"
+        desc: "Consulting to geoLOGIC Systems Inc. as a consulting develper to continue the advancement of geoROCK"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -85,36 +85,36 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Industry leading gewophyscial analytuics using commercial and custom designed softwware tools!"
+    body: "Industry leading geophysical analytics using commercial and custom designed software tools!"
     section: about
 
   clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+ #   list:
+ #     - title: "envato"
+ #       url: https://github.com/raviriley/agency-jekyll-theme
+ #       logo: assets/img/clients/envato.jpg
+ #    - title: "designmodo"
+ #       url: https://github.com/raviriley/agency-jekyll-theme
+ #       logo: assets/img/clients/designmodo.jpg
+ #     - title: "themeforest"
+ #       url: https://github.com/raviriley/agency-jekyll-theme
+ #      logo: assets/img/clients/themeforest.jpg
+ #     - title: "Creative Market"
+ #      url: https://github.com/raviriley/agency-jekyll-theme
+ #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
     text: "Geophysical intepretation at its best!!"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: Passionate data excavator with a specialty in geophysics and geoscience analysis who revels in maximizing data to mine information from complex data sets.  A dedicated learner who values the acquisition of new knowledge and establishing the most efficient method to incorporate this knowledge into existing workflows to enhance value.
     section: team
     people:
       - name: "Corey Hooge"
         role: "Consulting Geophysicist"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/corey.jpg
         social:
           - url: http://github.com/hyperiongeo
             icon: fab fa-github
