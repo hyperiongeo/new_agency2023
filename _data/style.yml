@@ -2,7 +2,12 @@
 #highlight: "#54bfff"
 #white: "#FF0000"
 #black: "#000"
-
+color:
+  primary: 5fbe60  #fed136
+  secondary: 43a344 #fec503   
+  secondary-dark: 333
+  muted: 777
+  
 #Image Customization
 header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
