@@ -12,30 +12,31 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Hyperion Geo!
-    text: "Advanced Interpretaton and Software Design for GeoScience Services in the Oil/Gas, Hydrgogen, Helium, Lithiom and Carbon Capture Industries"
+    text: "Advanced Geophysical Interpretaton and Software Develoment"
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Advanced Geophysical Interpretation and Software Develoment"
+
+    text: "Advanced Interpretaton and Software Develoment for GeoScience Services in the Oil/Gas, Hydrgogen, Helium, Lithiom and Carbon Capture Industries"
     section: services
     list:
       - title: "Geophysical Interpretation"
         desc: "Advanced geophysical interpretaion for Western Canada and International in Oil/Gas, Hydrgogen, Helium, Lithiom and Carbon Capture Industries"
-        icon: far fa-microscope #find more at https://fontawesome.com/icons
+        icon: fas fa-microscope #find more at https://fontawesome.com/icons
       - title: "Seismic Data Acquisition and Processing Management"
         desc: "extensive expereice in the management of small to large scale land 2D and 3D programs acorss western Canada."
-        icon: far fa-atom
+        icon: fas fa-atom
       - title: "A/D Activity"
         desc: "Data Room review, assisting in A&D opportunity exploration, setting up and maintaining seismic dataroom access."
-        icon: far fa-cart-shopping
+        icon: fas fa-cart-shopping
       - title: "Geoscience Software Development"
         desc: "Open Source and commercial Geoscience software development utilizing modern languages, primarily Python and C#."
         icon: fab fa-python
       - title: "Data Science and Analytics"
         desc: "Data analysis utilizing machine learning for advanced data analysis, principally in Geoscience"
-        icon: far fa-chart-scatter
+        icon: fas fa-chart-scatter
 
   portfolio:
     title: "Software"
