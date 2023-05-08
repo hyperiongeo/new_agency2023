@@ -38,8 +38,8 @@ en: &DEFAULT_EN
         icon: fab fa-chart-scatter
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Software Portfolio"
+    text: "Our public projects!"
     section: portfolio
     closebutton: "Close Project"
 

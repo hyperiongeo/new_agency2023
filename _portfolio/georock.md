@@ -15,6 +15,6 @@ https://www.geologic.com/georock/
 
 {:.list-inline}
 - Date: July 2019
-- Client: geoROCK
+- Client: geoLOGIC
 - Category: Rock Physics Interpretation
 
