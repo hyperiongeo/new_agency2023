@@ -38,7 +38,7 @@ es: &DEFAULT_ES
   nav:
     - title: "Servicios"
       section: servicios
-    - title: "Portafolio"
+    - title: "Software"
       section: portafolio
     - title: "Sobre Nosotros"
       section: nosotros

@@ -26,16 +26,16 @@ en: &DEFAULT_EN
         icon: fas fa-microscope #find more at https://fontawesome.com/icons
       - title: "Seismic Data Acquisition and Processing Management"
         desc: "extensive expereice in the management of small to large scale land 2D and 3D programs acorss western Canada."
-        icon: fas fa-atom-simple
+        icon: far fa-atom-simple
       - title: "A/D Activity"
         desc: "Data Room review, assisting in A&D opportunity exploration, setting up and maintaining seismic dataroom access."
-        icon: fas fa-cart-shopping
+        icon: far fa-cart-shopping
       - title: "Geoscience Software Development"
         desc: "Open Source and commercial Geoscience software development utilizing modern languages, primarily Python and C#."
-        icon: fas fa-python
+        icon: far fa-python
       - title: "Data Science and Analytics"
         desc: "Data analysis utilizing machine learning for advanced data analysis, principally in Geoscience"
-        icon: fab fa-chart-scatter
+        icon: far fa-chart-scatter
 
   portfolio:
     title: "Software"
@@ -81,7 +81,7 @@ en: &DEFAULT_EN
         align: right
       - title: "On-Going Geophysical Consulting Activities"
         year: "Dec 2021 - present"
-        desc: "Continuing consulting for development of oil/gas assets using leading edge geophysical methodologies.  Additionally, continue deveoloment of apps and utoilites to enahce consulting capabilities."
+        desc: "On-going consulting for development of oil/gas assets using leading edge geophysical methodologies.  Additionally, continue deveoloment of apps and utoilites to enahce consulting capabilities."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
