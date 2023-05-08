@@ -37,20 +37,20 @@ en: &DEFAULT_EN
         desc: "Data analysis utilizing machine learning for advanced data analysis, principally in Geoscience"
         icon: fab fa-chart-scatter
 
-  software:
-    title: "Software Portfolio"
+  portfolio:
+    title: "Software"
     text: "Our public projects!"
-    section: software
+    section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Our History"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Inital Geoscience Software Work"
+      - title: "Inital Geoscience Software Development"
         year: "2015-2017"
         desc: "Developed advanced toolkits to perform porosity and petrophysical analysis on geoscience digital well log data sets over scale-able geographic areas (from pool size up to entire provinces)."
         image: assets/img/timeline/1.jpg
@@ -113,7 +113,7 @@ en: &DEFAULT_EN
  #       logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "THE TEAM"
     text: "Geophysical intepretation at its best!!"
     subtext: Passionate data excavator with a specialty in geophysics and geoscience analysis who revels in maximizing data to mine information from complex data sets.  A dedicated learner who values the acquisition of new knowledge and establishing the most efficient method to incorporate this knowledge into existing workflows to enhance value.
     section: team
