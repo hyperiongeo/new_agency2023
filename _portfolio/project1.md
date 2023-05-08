@@ -1,18 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: geoROCK
+subtitle: Developed by geoscientists, for geoscientists.
+image: assets/img/portfolio/geoROCK-thumbnail.jpg
+alt: geoROCK
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: geoROCK
+  subtitle: Rock Physics Interpretation
+  thumbnail: assets/img/portfolio/geoROCK-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Explore, visualize, and analyze the intersection of well and seismic data with **geoROCK**.
+https://www.geologic.com/georock/
+
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: July 2019
+- Client: geoROCK
+- Category: Rock Physics Interpretation
 
