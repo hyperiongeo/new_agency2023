@@ -37,10 +37,10 @@ en: &DEFAULT_EN
         desc: "Data analysis utilizing machine learning for advanced data analysis, principally in Geoscience"
         icon: fab fa-chart-scatter
 
-  portfolio:
+  software:
     title: "Software Portfolio"
     text: "Our public projects!"
-    section: portfolio
+    section: software
     closebutton: "Close Project"
 
   timeline:
