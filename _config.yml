@@ -19,7 +19,7 @@ baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title: Hyperion GeoServices Corp.
 email: hyperion.geo@gmail.com
-description: "website of Hyperion GeoServices - World Class Geophysical interpretation."
+description: "website of Hyperion GeoServices - World Class Geophysical Interpretation."
 author     : Corey Hooge
 #logo:     #optional, defaults to site title
 #  path: assets\img\logo.png
